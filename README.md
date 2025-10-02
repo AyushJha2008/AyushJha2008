@@ -12,10 +12,6 @@
 
 ###
 
-<img align="centre" height="318" width="80%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnVpYjdwcXBwcDY4enFlcWo1ZzV6d21jczZieWF3cmNuMGMxazN6diZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
 <h4 align="centre">🕷️ Bitten by Radioactive bug, now i debug for living. Just your friendly neighborhood Developer<br><br> 📚 I'm currently learning backend development, with a focus on the MERN to build dynamic and scalable web applications.<br><br>🎯 Goals: To build a system that will bring revolution and pass on my name to next few centuries.<br><br>🎲 Fun fact: I love to create poems and play chess during traveling 😅</h4>
 
 ###
@@ -37,7 +33,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-jha-200805/)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Eren0080718)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@OrewaEren008)
   [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsjha2008@gmail.com)
 
