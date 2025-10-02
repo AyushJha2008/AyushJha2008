@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> More About me</h2>
+<h2 align="left"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2QxeGh2a3BreWdzNnN3NWd0MngzNmtsNG5zZHFnNjJvY2huaTJ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJoqZWcFDAbvy/giphy.gif" width="30"> More About me</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Tech Stack<br></h2>
+<h2 align="left"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RsMjk1b2YycG1nczY4eGZrc3BjOTNrMWE2OHQzY25hcHE1MHdqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ineNOtKIAII5aJ5F8/giphy.gif" width="20"> My Arsenal<br></h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left"> <img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="25">Connect</h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlmZTR3MXBvaHZtOWI1Z2IxYzJ2MTVrd2QzYXQ3MXZ4MWdhd2wyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WvTKJoo9Dudou54YY6/giphy.gif" width="25"> Connect with me</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left"><img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="25">Stats</h2>
+<h2 align="left"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm92ZWllOXF5Zm1tdzBxZTNqYzN1YmNvZ2R2eXBrcW42anJ2Z3ZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MpInizA3qTMYPEDwHx/giphy.gif" width="25"> Stats</h2>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-  <h2 align="left"><img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="25">GitHub Achievements </h2>
+  <h2 align="left"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlsbHY3cjVnZXhlcWVqa2NvaHRpYzJwODZjbTZtZDFuYWNtb21lNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tAAvKbJEGgXFnls0f2/giphy.gif" width="25"> GitHub Achievements </h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AyushJha2008&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
@@ -70,7 +70,7 @@
 
 ###
 
-<h1 align="left"><img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="25">Projects & Work</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZuMW1kbGZmcmplZjZtNjJjcmhrOXFubmJzaTN2d2h5c2VudzI1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lQ0VQmLuLH7lS/giphy.gif" width="25"> Projects Iam Working on</h1>
 
 ###
 
@@ -97,11 +97,9 @@
 <!-- Add simple animated footer -->
 <div align="center">
   <!-- Animated line separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <!-- Simple typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%8C%9F;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer Typing SVG" />
-   
-  <!-- Animated line separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=🌈+Thanks+for+stopping+by!+🌈&fontSize=28&fontAlign=50&fontAlignY=70&animation=fadeIn&reversal=true" alt="footer"/>
+</p>
+
+
 </div>
