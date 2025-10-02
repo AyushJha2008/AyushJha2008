@@ -6,13 +6,9 @@
    <img  align="right" src="https://komarev.com/ghpvc/?username=AyushJha2008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </h1>
 
-##
-
-<h4 align="left">👋 Hi, I'm Ayush Jha!<br>🎓 A 3rd year computer Engineering Student with intrest on joining hackathons and tech-meet ups.<br>🚀 I love to explore new technologies, take on challenges, and contribute to innovative projects. Currently diving deeper into React, Node.js, and backend development.</h4>
-
 ###
 
-<h2 align="left"> More About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> More About me</h2>
 
 ###
 
@@ -24,7 +20,7 @@
 
 ###
 
-<h2 align="left">Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"><br></h2>
+<h2 align="left"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Tech Stack<br></h2>
 
 ###
 
@@ -34,7 +30,7 @@
 
 ###
 
-<h2 align="left">Connect <img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="25"></h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="25">Connect</h2>
 
 ###
 
@@ -52,7 +48,7 @@
 
 ###
 
-<h2 align="left">Stats <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="25"></h2>
+<h2 align="left"><img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="25">Stats</h2>
 
 ###
 
@@ -66,7 +62,7 @@
 
 ###
 
-  <h2 align="left">GitHub Achievements  <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="25"></h2>
+  <h2 align="left"><img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="25">GitHub Achievements </h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AyushJha2008&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
@@ -74,7 +70,7 @@
 
 ###
 
-<h1 align="left">Projects & Work <img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="25"></h1>
+<h1 align="left"><img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="25">Projects & Work</h1>
 
 ###
 
