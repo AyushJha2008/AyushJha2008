@@ -1,9 +1,12 @@
-# <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Ayush+Jha;Frontend+Developer;React+Enthusiast" alt="Typing SVG" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+Ayush+Jha!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+MERN+Stack+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
+</div>
+
  <!-- Simple view counter -->
    <img  align="right" src="https://komarev.com/ghpvc/?username=AyushJha2008&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </h1>
 
-###
+##
 
 <h4 align="left">👋 Hi, I'm Ayush Jha!<br>🎓 A 3rd year computer Engineering Student with intrest on joining hackathons and tech-meet ups.<br>🚀 I love to explore new technologies, take on challenges, and contribute to innovative projects. Currently diving deeper into React, Node.js, and backend development.</h4>
 
