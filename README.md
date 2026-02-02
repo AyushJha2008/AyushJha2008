@@ -54,11 +54,6 @@
 
 ###
 
-  <h2 align="left"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlsbHY3cjVnZXhlcWVqa2NvaHRpYzJwODZjbTZtZDFuYWNtb21lNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tAAvKbJEGgXFnls0f2/giphy.gif" width="25"> GitHub Achievements </h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushJha2008&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
 
 ###
 
