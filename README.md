@@ -90,7 +90,7 @@
 <div align="center">
   <!-- Animated line separator -->
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=🌈+Thanks+for+stopping+by!+🌈&fontSize=38&fontAlign=50&fontAlignY=70&animation=fadeIn&reversal=true" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks+for+stopping+by&fontSize=38&fontAlign=50&fontAlignY=70&animation=fadeIn&reversal=true" alt="footer"/>
 </p>
 
 
