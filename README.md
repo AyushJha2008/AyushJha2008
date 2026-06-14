@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+Ayush+Jha!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+MERN+Stack+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+Ayush+Jha!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=FullStack+Developer+%7C+JavaScript+%7C+Java+&descAlignY=55&descAlign=50"/>
 </div>
 
  <!-- Simple view counter -->
@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,git,vercel,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,tailwind,react,redux,nodejs,express,redis,mongodb,git,postman&perline=6" />
 </div>
 
 ###
