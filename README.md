@@ -45,39 +45,9 @@
 
 ###
 
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=AyushJha2008&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AyushJha2008&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushJha2008&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+<p><img align="left" src="https://github-readme-stats-lyart-kappa-72.vercel.app/api/top-langs?username=ayushjha2008&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayushjha2008" /></p>
 
-###
-
-
-###
-
-<h1 align="left"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZuMW1kbGZmcmplZjZtNjJjcmhrOXFubmJzaTN2d2h5c2VudzI1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lQ0VQmLuLH7lS/giphy.gif" width="25"> Projects Iam Working on</h1>
-
-###
-
-###
-
-<div align="left">
-  <!-- ListiFy -->
-  <div style="background-color: #2A2A2A; padding: 20px; border-radius: 10px; border: 1px solid #FF6B6B; margin-bottom: 20px;">
-    <h3 style="color: #FF6B6B;">🌐 Map Me </h3>
-    <p style="color: #F8F9FA;">Navigate any indoor space with ease</p>
-    <ul style="color: #F8F9FA;">
-      <li>✨ Organizer - make map of building within few minutes</li>
-      <li>🤖 Visitors - Navigate themselves by scanning QR sticked outside rooms</li>
-      <li>📝 Customizable map with visitor feedback feature</li>
-    </ul>
-  </div>
-  
-
-  
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-lyart-kappa-72.vercel.app/api?username=ayushjha2008&show_icons=true&theme=dark&locale=en" alt="ayushjha2008" /></p>
 
 ###
 
@@ -87,6 +57,4 @@
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks+for+stopping+by&fontSize=38&fontAlign=50&fontAlignY=70&animation=fadeIn&reversal=true" alt="footer"/>
 </p>
-
-
 </div>
